@@ -1,0 +1,6 @@
+{
+  "name": "數學冒險王 Math Adventure",
+  "description": "日系可愛 RPG 橫向兒童數學學習冒險遊戲，支援幼兒園至國小三年級 120 關離線戰鬥學習、SQLite 資料庫結構、錯題複習與家長報表。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
